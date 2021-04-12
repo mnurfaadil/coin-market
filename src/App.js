@@ -29,7 +29,7 @@ class App extends Component {
                   <Nav.Link href="#/">Home</Nav.Link>
                   <Nav.Link href="#/about">About</Nav.Link>
                   {/* <Link to="/">Home</Link> */}
-                  <Nav.Link href="topics">Topics</Nav.Link>
+                  {/* <Nav.Link href="topics">Topics</Nav.Link>
                   <Nav.Link href="place">Places</Nav.Link>
                   <Nav.Link href="contact">Contact</Nav.Link>
                   <Nav.Link href="about">About</Nav.Link>
@@ -39,7 +39,7 @@ class App extends Component {
                     <NavDropdown.Item>Something</NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-                  </NavDropdown>
+                  </NavDropdown> */}
                 </Nav>
                 <Form inline>
                   <FormControl type="text" placeholder="Search" className="mr-sm-2" />
