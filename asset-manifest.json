@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coin-market/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/coin-market/static/js/main.4a2eccba.chunk.js",
-    "main.js.map": "/coin-market/static/js/main.4a2eccba.chunk.js.map",
+    "main.js": "/coin-market/static/js/main.0b638606.chunk.js",
+    "main.js.map": "/coin-market/static/js/main.0b638606.chunk.js.map",
     "runtime-main.js": "/coin-market/static/js/runtime-main.511a2270.js",
     "runtime-main.js.map": "/coin-market/static/js/runtime-main.511a2270.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/coin-market/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6b3d6a0d.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.4a2eccba.chunk.js"
+    "static/js/main.0b638606.chunk.js"
   ]
 }
