@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/coin-market/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/coin-market/static/js/main.79519210.chunk.js",
-    "main.js.map": "/coin-market/static/js/main.79519210.chunk.js.map",
-    "runtime-main.js": "/coin-market/static/js/runtime-main.7ce2a652.js",
-    "runtime-main.js.map": "/coin-market/static/js/runtime-main.7ce2a652.js.map",
-    "static/js/2.ef365a1e.chunk.js": "/coin-market/static/js/2.ef365a1e.chunk.js",
-    "static/js/2.ef365a1e.chunk.js.map": "/coin-market/static/js/2.ef365a1e.chunk.js.map",
-    "static/js/3.254b1d89.chunk.js": "/coin-market/static/js/3.254b1d89.chunk.js",
-    "static/js/3.254b1d89.chunk.js.map": "/coin-market/static/js/3.254b1d89.chunk.js.map",
+    "main.css": "/coin-market/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/coin-market/static/js/main.f375b9b8.chunk.js",
+    "main.js.map": "/coin-market/static/js/main.f375b9b8.chunk.js.map",
+    "runtime-main.js": "/coin-market/static/js/runtime-main.6a485443.js",
+    "runtime-main.js.map": "/coin-market/static/js/runtime-main.6a485443.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/coin-market/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ce2cd37f.chunk.js": "/coin-market/static/js/2.ce2cd37f.chunk.js",
+    "static/js/2.ce2cd37f.chunk.js.map": "/coin-market/static/js/2.ce2cd37f.chunk.js.map",
+    "static/js/3.db51052b.chunk.js": "/coin-market/static/js/3.db51052b.chunk.js",
+    "static/js/3.db51052b.chunk.js.map": "/coin-market/static/js/3.db51052b.chunk.js.map",
     "index.html": "/coin-market/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/coin-market/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ef365a1e.chunk.js.LICENSE.txt": "/coin-market/static/js/2.ef365a1e.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/coin-market/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/coin-market/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.ce2cd37f.chunk.js.LICENSE.txt": "/coin-market/static/js/2.ce2cd37f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ce2a652.js",
-    "static/js/2.ef365a1e.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.79519210.chunk.js"
+    "static/js/runtime-main.6a485443.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ce2cd37f.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.f375b9b8.chunk.js"
   ]
 }
